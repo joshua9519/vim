@@ -16,8 +16,6 @@ function install_plugins {
 declare -a plugins=(
 	sheerun/vim-polyglot
 	scrooloose/nerdtree
-	tfnico/vim-gradle
-	thecodesmith/vim-groovy
 	tpope/vim-surround
 	tpope/vim-fugitive
 	ervandew/supertab
